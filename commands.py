@@ -7,4 +7,4 @@ command = {
     "git branch branch_name" : "Created a new branch",
     "git checkout" : "Switching to our other branch"
 }
-print("Test print")
+print("SE C4 is awesome!")
